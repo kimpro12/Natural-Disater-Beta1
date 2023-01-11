@@ -1,0 +1,31 @@
+Prefix: "NaturalDisater"
+#Message when one event start
+Message-When-PlayerWater-Kill: "Don't go to the water"
+Message-Axit-Event: "Axit has been enabled"
+Message-Meteor-Event: "Meteor has been enabled"
+Message-Fire-Event: "Fire has been enabled"
+Message-Wither-Event: "Wither has been enabled"
+Message-Ghast-Event: "Ghast has been enabled"
+#Message will be sent to player in this event
+Message-Axit: "Chay vo nha nhanh len"
+#Time in second
+Time-Happen-Axit: 160
+Time-Between-GameEnd-And-Teleport: 10
+Time-Happen-Meteor: 160
+#Message
+Reload-Map-Message: "Starting reload map"
+Reload-Map-Successful-Message: "Reload map successful"
+#Money
+Winner-Axit-Money: 30
+Winner-Meteor-Money: 30
+#Message
+Giving-Money-Message: "Ban da co them"
+#SpawnLocation
+SpawnAxit:
+  x: 100
+  y: 100
+  z: 100
+SpawnMeteor:
+  x: 100
+  y: 100
+  z: 100

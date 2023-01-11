@@ -1,0 +1,24 @@
+name: Naturaldisater
+version: '${project.version}'
+main: me.naturaldisater.Naturaldisater
+authors: [ KIM ]
+description: KIM
+api-version: 1.13
+depend:
+  - Vault
+commands:
+  nd:
+    description: naturaldisater
+permissions:
+  NaturalDisater.Fire:
+    default: op
+  NaturalDisater.Axit:
+    default: op
+  NaturalDisater.Wither:
+    default: op
+  NaturalDisater.Ghast:
+    default: op
+  NaturalDisater:
+    default: op
+  NaturalDisater.Meteor:
+    default: op
